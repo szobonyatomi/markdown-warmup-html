@@ -16,4 +16,25 @@ body {
 
 table {
   border: 1px solid;
+  text-align: center;
+}
+thead {
+  color: white;
+  background: black;
+}
+tbody:first {
+  background: blue;
+}
+
+h5 {
+  padding: 1rem;
+  font-size: 16px;
+}
+
+a:link {
+  color: #473884;
+}
+
+a:visited {
+  color: #abc574;
 }
